@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallet", "Wallet\Wallet.csproj", "{27903EB4-B71C-4EE4-8741-85377933BB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicClasses", "PublicClasses\PublicClasses.csproj", "{F1495F55-12F7-4CA1-8D11-B378B75D8DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerToPeerServer", "PeerToPeerServer\PeerToPeerServer.csproj", "{82E578A4-1131-4659-BF07-07D81029E78D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27903EB4-B71C-4EE4-8741-85377933BB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27903EB4-B71C-4EE4-8741-85377933BB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27903EB4-B71C-4EE4-8741-85377933BB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27903EB4-B71C-4EE4-8741-85377933BB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1495F55-12F7-4CA1-8D11-B378B75D8DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1495F55-12F7-4CA1-8D11-B378B75D8DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1495F55-12F7-4CA1-8D11-B378B75D8DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1495F55-12F7-4CA1-8D11-B378B75D8DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E578A4-1131-4659-BF07-07D81029E78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E578A4-1131-4659-BF07-07D81029E78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E578A4-1131-4659-BF07-07D81029E78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E578A4-1131-4659-BF07-07D81029E78D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97DDD749-0162-49FA-A272-2D1FC8E2A087}
+	EndGlobalSection
+EndGlobal
